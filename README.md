@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Alexandr Waage (for friends i prefered Saša)
 - 👀 I’m interested in development & cyber-security
-- 🌱 I’m currently learning Jablotron & C#...
-- 💞️ I’m looking to collaborate on software for reading ID
+- 🌱 I’m currently learning C++, linux.
 - 📫 How to reach me? Basically, contact me on mail: alexandr@waage.cz
 
 <!---
