@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexandr Waage (for friends i prefered Saša)
-- 👀 I’m interested in development & cyber-security
-- 🌱 I’m currently learning C++, linux.
+- 👀 I’m interested in software/hardware engineering & cyber-security
+- 🌱 I’m currently learning C++ (I am working on software for users registration), linux (ubuntu)  
 - 📫 How to reach me? Basically, contact me on mail: alexandr@waage.cz
 
 <!---
