@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Alexandr Waage (for friends i prefered Saša)
 - 👀 I’m interested in software/hardware engineering & cyber-security
-- 🌱 I’m currently learning C++ (I'm working on software for users registration)
-- 📚 I'm currently reading "Hradla, volty, jednočipy"
+- :ghost: I’m working with C++, specially Arduino & Linux
+- 🌱 I’m currently learning Dart (I'm working on android application)
+- 📚 I'm currently reading "Porty, bajty, osmibity" - peace with Omen Alpha
 - 📫 How to reach me? Basically, contact me on mail: alexandr@waage.cz
 
 <!---
