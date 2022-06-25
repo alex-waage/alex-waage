@@ -1,9 +1,15 @@
-- 👋 Hi, I’m Alexandr Waage (for friends i prefered Saša)
-- 👀 I’m interested in software/hardware engineering & cyber-security
-- :ghost: I’m working with C++, specially Arduino & Linux
-- 🌱 I’m currently learning Dart (I'm working on android application)
-- 📚 I'm currently reading "Porty, bajty, osmibity" - peace with Omen Alpha
-- 📫 How to reach me? Basically, contact me on mail: alexandr@waage.cz
+## Hi, I'm Alexandr Waage 👋
+- 👀 I’m interested in IoT, software/hardware engineering & cyber-security
+- 📚 I'm currently reading "Practical IoT Hacking" 
+
+### 💪 I'm working with:
+- Python & Django, C++ (Arduino, Linux)
+- NodeRed, HomeAssistant
+- Arduino, ESP, RPi and basic electronic
+- EasyEDA for circuit boards
+
+### 📫 How to reach me?
+[📧: alexandr@waage.cz](mailto:alexandr@waage.cz)
 
 <!---
 alex-waage/alex-waage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
