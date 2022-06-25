@@ -1,6 +1,7 @@
 ## Hi, I'm Alexandr Waage 👋
 - 👀 I’m interested in IoT, software/hardware engineering & cyber-security
 - 📚 I'm currently reading "Practical IoT Hacking" 
+- 🎓 I'm currently learning "CCNA1" curse
 
 ### 💪 I'm working with:
 - Python & Django, C++ (Arduino, Linux)
