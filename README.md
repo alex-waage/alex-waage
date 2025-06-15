@@ -1,4 +1,4 @@
-## Hi, I'm Alexandr Waage 👋
+## Hi, I'm A. Waage 👋
 - 👀 I’m interested in networking, system administration, software/hardware engineering & cyber-security
 
 ### 📫 How to reach me?
